@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579433919 source:c:\users\chrystal212\desktop\list_binary\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<iostream>
+	<time.h>
+
